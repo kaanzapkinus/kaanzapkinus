@@ -1,22 +1,38 @@
-# Hey, I'm Kaan 👋
+# Kaan Yazıcıoğlu
 
-Software development student in Wrocław, Poland — graduating February 2027. I build things end to end and run them myself: a multi-OS homelab (Windows · macOS · Linux) with NAS storage, backups, and self-hosted services, hardware I assemble and repair on my own. Local LLMs included.
+**AI-forward developer** in Wrocław, Poland. Final-year IT student specialising in software development, graduating in February 2027.
 
-**Right now I'm building [Companion for Drivers](https://companionfordrivers.tech)** — a live analytics dashboard for ride-hailing drivers (surge tracking, demand heat maps, route comparison). It started as my bachelor's thesis and is now in public beta with real users.
+I build web applications, automation and developer tools, and run them on my own infrastructure. AI-assisted development is part of my daily workflow, alongside code review, automated tests and runtime checks.
 
-### Things I've made
+## Selected work
 
-| Project | What it is |
+| Project | What I work on |
 |---|---|
-| [Companion for Drivers](https://companionfordrivers.tech) | Real-time analytics PWA for drivers — Node.js/Express, Nginx, PM2, 230+ concurrent entities. Started as my bachelor's thesis, now in public beta. |
-| [ZomboidServer-arm](https://github.com/kaanzapkinus/ZomboidServer-arm) | One-command installer + terminal control panel for a modded Project Zomboid server on ARM64 (Oracle Cloud / box64). |
-| [AI Chatbot Aviation Tracker](https://github.com/kaanzapkinus/AI-Chatbot-Aviation-Tracker) | Real-time flight tracking chatbot — Python/Django, deployed on Linux. |
-| Homelab | Not a repo (yet) — a rack of machines at home that taught me more than any course. |
+| [Companion for Drivers](https://companionfordrivers.tech) | My bachelor's thesis and a live, closed-beta analytics PWA for Wrocław drivers. Maps, transport and weather data, historical analysis and statistical forecasts. **Private source.** |
+| [OMPWeb Plus](https://github.com/kaanzapkinus/ompweb-plus) | My independent fork of [OMPWeb](https://github.com/kahme247/ompweb) for the [oh-my-pi](https://github.com/can1357/oh-my-pi) coding agent, focused on mobile use, remote pairing, logical workspaces, scheduled prompts and cross-device drafts. |
+| [Homelab Desk](https://github.com/kaanzapkinus/homelab-desk) | A native macOS monitor and recovery console built with SwiftUI, AppKit and WidgetKit. Direct host metrics and an isolated AI assistant, with recovery actions requiring local approval. |
+| [ZomboidServer-arm](https://github.com/kaanzapkinus/ZomboidServer-arm) | Bash/Python installation and management tools for an x86 game server on ARM64 Linux using box64. Includes a terminal control panel, backups, watchdogs and update automation. |
+| Avci | A private marketplace analysis tool combining image/text models and local/cloud inference. I work on structured outputs, model comparisons, deterministic risk checks and human-reviewed actions. |
 
-### Toolbox
+## Homelab and AI workflow
 
-`Python` `Node.js` `JavaScript` `Bash` `SQL` `Docker` `Nginx` `Linux` `Windows` `macOS` `Microsoft 365` `Azure basics`
+My Mac mini lab combines Docker services with native macOS processes and Linux cloud deployments. I build the surrounding tooling: a web dashboard, service-health checks, model-usage reporting, guarded recovery flows and encrypted backups. The lab's source and deployment configuration remain private.
 
-### Find me
+I use Codex, Claude and Antigravity through oh-my-pi, with model-specific subagents and MCP tools. I customise model routing and recovery behaviour, and use Ollama for local model experiments.
 
-🌍 [companionfordrivers.tech](https://companionfordrivers.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/kaanyazicioglu/) · 📫 contact@kaanyazicioglu.com
+## Tools
+
+**Code:** Python, JavaScript/TypeScript, Node.js, Bash, Swift.  
+**Systems and testing:** Linux, macOS, Docker/Compose, Nginx, GitHub Actions, Node.js tests, Playwright.
+
+## Earlier projects
+
+- [AI Chatbot Aviation Tracker](https://github.com/kaanzapkinus/AI-Chatbot-Aviation-Tracker): a Python/Django flight-tracking project with a chatbot interface.
+- [Hide My Email utility](https://github.com/kaanzapkinus/icloud-hidemyemail-deactivator): a browser extension for managing my own iCloud aliases.
+- [TSP Project](https://github.com/kaanzapkinus/TSP-Project): Python experiments comparing genetic, greedy and random approaches to the travelling salesman problem.
+
+Other small tools and university coursework are in [my public repositories](https://github.com/kaanzapkinus?tab=repositories).
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/kaanyazicioglu/) · [Email](mailto:contact@kaanyazicioglu.com)
